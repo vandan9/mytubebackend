@@ -1,0 +1,11 @@
+{
+  "name": "mytubebackend",
+  "version": "1.0.0",
+  "description": "this is backend which is inspired by youtube and with some additional func",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vandan chikhaliya",
+  "license": "ISC"
+}
